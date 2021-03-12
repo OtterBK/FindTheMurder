@@ -1,30 +1,30 @@
 
 
 
-## ? FindTheMurder, [»ìÀÎÀÚ¸¦ Ã£¾Æ¶ó]
-> ¸¶ÀÎÅ©·¡ÇÁÆ® ¼­¹ö ÇÃ·¯±×ÀÎ (1.12.2 ¹öÀü)
+## ðŸ“’ FindTheMurder, [ì‚´ì¸ìžë¥¼ ì°¾ì•„ë¼]
+> ë§ˆì¸í¬ëž˜í”„íŠ¸ ì„œë²„ í”ŒëŸ¬ê·¸ì¸ (1.12.2 ë²„ì „)
 
 ---
 
-#### ? ¾î¶² ÇÃ·¯±×ÀÎÀÎ°¡¿ä?
-¸¶ÀÎÅ©·¡ÇÁÆ® »ìÀÎÀÚ¸¦ Ã£¾Æ¶ó ÄÁÅÙÃ÷¸¦ ÇÃ·¹ÀÌÇÒ ¼ö ÀÖ´Â ÇÃ·¯±×ÀÎÀÔ´Ï´Ù.
+#### ðŸ“– ì–´ë–¤ í”ŒëŸ¬ê·¸ì¸ì¸ê°€ìš”?
+ë§ˆì¸í¬ëž˜í”„íŠ¸ ì‚´ì¸ìžë¥¼ ì°¾ì•„ë¼ ì»¨í…ì¸ ë¥¼ í”Œë ˆì´í•  ìˆ˜ ìžˆëŠ” í”ŒëŸ¬ê·¸ì¸ìž…ë‹ˆë‹¤.
 
-#### ? ¸í·É¾î
+#### ðŸ“„ ëª…ë ¹ì–´
 ```
-* /ftm - ¼³Á¤ ¹× Âü¿© °ü·Ã ¸í·É¾î¸¦ Ç¥½ÃÇÕ´Ï´Ù.
+* /ftm - ì„¤ì • ë° ì°¸ì—¬ ê´€ë ¨ ëª…ë ¹ì–´ë¥¼ í‘œì‹œí•©ë‹ˆë‹¤.
 ```
 
-####  ? ÇÃ·¯±×ÀÎ ´Ù¿î·Îµå
+####  ðŸ“¥ í”ŒëŸ¬ê·¸ì¸ ë‹¤ìš´ë¡œë“œ
 
 <div align=center>
 
-#####  ? [±¸±Û µå¶óÀÌºê](https://drive.google.com/file/d/1vEjLAE9Sn-rsvbYjU4Yk6FR5oX97Mu9n/view?usp=sharing)
+#####  ðŸ‘‰ [êµ¬ê¸€ ë“œë¼ì´ë¸Œ](https://drive.google.com/file/d/1vEjLAE9Sn-rsvbYjU4Yk6FR5oX97Mu9n/view?usp=sharing)
 
 </div>
 
-#### ? ½º³À¼¦
-[![À¯Æ©ºê](http://img.youtube.com/vi/EaRlog-2PtM/0.jpg)](https://youtu.be/EaRlog-2PtM?t=0s)
-##### Å¬¸¯ÇÏ¿© µ¿¿µ»ó ½ÃÃ»
+#### ðŸ“· ìŠ¤ëƒ…ìƒ·
+[![ìœ íŠœë¸Œ](http://img.youtube.com/vi/EaRlog-2PtM/0.jpg)](https://youtu.be/EaRlog-2PtM?t=0s)
+##### í´ë¦­í•˜ì—¬ ë™ì˜ìƒ ì‹œì²­
 
 
 
