@@ -1,0 +1,7 @@
+name: FindTheMurder
+main: findthemurder.MinigameServer
+version: 0.01
+description: Find The Murder Plugin by Bokum
+commands:
+  setlobby:
+    description: setlobby command
